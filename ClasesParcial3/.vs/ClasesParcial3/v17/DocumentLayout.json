@@ -3,24 +3,36 @@
   "WorkspaceRootPath": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\clasesparcial3\\repositorios\\repoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|solutionrelative:clasesparcial3\\repositorios\\repoproductos.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\clasesparcial3\\repositorios\\repocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|solutionrelative:clasesparcial3\\repositorios\\repocliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\clasesparcial3\\repositorios\\repoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|solutionrelative:clasesparcial3\\repositorios\\repoventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\clasesparcial3\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|solutionrelative:clasesparcial3\\data\\aplicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6E275360-BF35-45E9-8E52-84C289637116}|Front\\Front.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6E275360-BF35-45E9-8E52-84C289637116}|Front\\Front.csproj|solutionrelative:front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{6E275360-BF35-45E9-8E52-84C289637116}|Front\\ConsolaParcial.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6E275360-BF35-45E9-8E52-84C289637116}|Front\\ConsolaParcial.csproj|solutionrelative:front\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\clasesparcial3\\modelo\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|solutionrelative:clasesparcial3\\modelo\\venta.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\clasesparcial3\\modelo\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|solutionrelative:clasesparcial3\\modelo\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
       "AbsoluteMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\clasesparcial3\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|solutionrelative:clasesparcial3\\modelo\\producto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\clasesparcial3\\modelo\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|solutionrelative:clasesparcial3\\modelo\\reporteventa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{6BD6332B-8A91-432C-A0A3-10C2808F6CF8}|ClasesParcial3\\ClasesParcial3.csproj|c:\\users\\tomas\\onedrive\\documentos\\github\\parcial_3\\clasesparcial3\\clasesparcial3\\modelo\\cliente.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -38,89 +50,50 @@
       "DocumentGroups": [
         {
           "DockedWidth": 391,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 3,
-              "Title": "ReporteVenta.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\ReporteVenta.cs",
-              "RelativeDocumentMoniker": "ClasesParcial3\\Modelo\\ReporteVenta.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\ReporteVenta.cs",
-              "RelativeToolTip": "ClasesParcial3\\Modelo\\ReporteVenta.cs",
-              "ViewState": "AgIAAAIAAAAAAAAAAAAcwBUAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T22:00:53.052Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 2,
-              "Title": "Venta.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\Venta.cs",
-              "RelativeDocumentMoniker": "ClasesParcial3\\Modelo\\Venta.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\Venta.cs",
-              "RelativeToolTip": "ClasesParcial3\\Modelo\\Venta.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T22:00:31.305Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Cliente.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\Cliente.cs",
-              "RelativeDocumentMoniker": "ClasesParcial3\\Modelo\\Cliente.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\Cliente.cs",
-              "RelativeToolTip": "ClasesParcial3\\Modelo\\Cliente.cs",
-              "ViewState": "AgIAAAMAAAAAAAAAAADwvxMAAAAVAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T22:00:19.898Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 6,
-              "Title": "ConsolaParcial.csproj",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\Front\\ConsolaParcial.csproj",
-              "RelativeDocumentMoniker": "Front\\ConsolaParcial.csproj",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\Front\\ConsolaParcial.csproj",
-              "RelativeToolTip": "Front\\ConsolaParcial.csproj",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
-              "WhenOpened": "2025-11-05T18:49:57.433Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "AplicationDbContext.cs",
-              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Data\\AplicationDbContext.cs",
-              "RelativeDocumentMoniker": "ClasesParcial3\\Data\\AplicationDbContext.cs",
-              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Data\\AplicationDbContext.cs",
-              "RelativeToolTip": "ClasesParcial3\\Data\\AplicationDbContext.cs",
-              "ViewState": "AgIAAAkAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-11-05T18:46:37.013Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 1,
+              "DocumentIndex": 4,
               "Title": "Program.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\Front\\Program.cs",
               "RelativeDocumentMoniker": "Front\\Program.cs",
               "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\Front\\Program.cs",
               "RelativeToolTip": "Front\\Program.cs",
-              "ViewState": "AgIAAAEAAAAAAAAAAAAuwBgAAAAMAAAAAAAAAA==",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAIwCEAAAA2AAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T18:45:21.682Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
-              "DocumentIndex": 4,
+              "DocumentIndex": 1,
+              "Title": "RepoCliente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Repositorios\\RepoCliente.cs",
+              "RelativeDocumentMoniker": "ClasesParcial3\\Repositorios\\RepoCliente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Repositorios\\RepoCliente.cs",
+              "RelativeToolTip": "ClasesParcial3\\Repositorios\\RepoCliente.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:01:08.041Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RepoProductos.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Repositorios\\RepoProductos.cs",
+              "RelativeDocumentMoniker": "ClasesParcial3\\Repositorios\\RepoProductos.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Repositorios\\RepoProductos.cs",
+              "RelativeToolTip": "ClasesParcial3\\Repositorios\\RepoProductos.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAxAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:45:37.802Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
               "Title": "Producto.cs",
               "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\Producto.cs",
               "RelativeDocumentMoniker": "ClasesParcial3\\Modelo\\Producto.cs",
@@ -130,6 +103,83 @@
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-11-05T18:22:13.279Z",
               "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "ReporteVenta.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\ReporteVenta.cs",
+              "RelativeDocumentMoniker": "ClasesParcial3\\Modelo\\ReporteVenta.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\ReporteVenta.cs",
+              "RelativeToolTip": "ClasesParcial3\\Modelo\\ReporteVenta.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAcwA4AAABfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:00:53.052Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Cliente.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\Cliente.cs",
+              "RelativeDocumentMoniker": "ClasesParcial3\\Modelo\\Cliente.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\Cliente.cs",
+              "RelativeToolTip": "ClasesParcial3\\Modelo\\Cliente.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAADwvxgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:00:19.898Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Data\\AplicationDbContext.cs",
+              "RelativeDocumentMoniker": "ClasesParcial3\\Data\\AplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Data\\AplicationDbContext.cs",
+              "RelativeToolTip": "ClasesParcial3\\Data\\AplicationDbContext.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAuwAwAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T18:46:37.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "RepoVenta.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Repositorios\\RepoVenta.cs",
+              "RelativeDocumentMoniker": "ClasesParcial3\\Repositorios\\RepoVenta.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Repositorios\\RepoVenta.cs",
+              "RelativeToolTip": "ClasesParcial3\\Repositorios\\RepoVenta.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABMAAAANAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T23:16:33.871Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Venta.cs",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\Venta.cs",
+              "RelativeDocumentMoniker": "ClasesParcial3\\Modelo\\Venta.cs",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\ClasesParcial3\\Modelo\\Venta.cs",
+              "RelativeToolTip": "ClasesParcial3\\Modelo\\Venta.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAABAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-11-05T22:00:31.305Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ConsolaParcial.csproj",
+              "DocumentMoniker": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\Front\\ConsolaParcial.csproj",
+              "RelativeDocumentMoniker": "Front\\ConsolaParcial.csproj",
+              "ToolTip": "C:\\Users\\tomas\\OneDrive\\Documentos\\GitHub\\Parcial_3\\ClasesParcial3\\Front\\ConsolaParcial.csproj",
+              "RelativeToolTip": "Front\\ConsolaParcial.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-11-05T18:49:57.433Z"
             }
           ]
         }

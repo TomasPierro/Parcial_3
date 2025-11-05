@@ -17,7 +17,7 @@ namespace ClasesParcial3.Data
         public DbSet<ReporteVenta> ReporteVentas { get; set; }
         protected override void OnConfiguring(DbContextOptionsBuilder optionsBuilder)
         {
-            optionsBuilder.UseSqlServer("Server=(localdb)\\MSSQLLocalDB;Database=ParcialFinal;Trusted_Connection=true;TrustServerCertificate=True;");
+            optionsBuilder.UseSqlServer("Server=TOMAS\\TOMASDB;Database=ParcialFinal;Trusted_Connection=true;TrustServerCertificate=True;");
         }
     }
 }

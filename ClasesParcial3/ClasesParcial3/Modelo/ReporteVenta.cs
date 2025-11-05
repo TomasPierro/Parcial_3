@@ -6,12 +6,13 @@ using System.Threading.Tasks;
 
 namespace ClasesParcial3.Modelo
 {
-    public class ReporteVenta : Venta
+    public class ReporteVenta 
     {
-       public string NombreCliente { get; set; }
-         public decimal TotalVenta { get; set; }
+        public int Id { get; set; }
+        public string NombreCliente { get; set; }
+        public decimal TotalVenta { get; set; }
     
-          public ReporteVenta(string nombreProducto, int cantidadVendida, string nombreCliente, decimal totalVenta) : base(nombreProducto, cantidadVendida)
+          public ReporteVenta(string nombreProducto, string nombreCliente, decimal totalVenta) 
           {
                 this.NombreCliente = nombreCliente;
                 this.TotalVenta = totalVenta;

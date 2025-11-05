@@ -8,14 +8,14 @@ namespace ClasesParcial3.Modelo
 {
     public class Cliente
     {
-        public int ID { get; set; }
+        public int Id { get; set; }
         public int DNI { get; set; }
         public string Nombre { get; set; }
         public string Apellido { get; set; }
         public string Gmail { get; set; }
 
 
-        public Cliente (int DNI, string Nombre, string Apellido)
+        public Cliente (int DNI, string Nombre, string Apellido , string Gmail)
         {
             this.DNI = DNI;
             this.Nombre = Nombre;

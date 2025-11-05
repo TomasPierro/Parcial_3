@@ -6,15 +6,21 @@ using System.Threading.Tasks;
 
 namespace ClasesParcial3.Modelo
 {
-    public class Venta
+    public class Venta 
     {
+        public int Id { get; set; }
+        public string NombreClinete { get; set; }
+        public Cliente Cliente { get; set; }
         public string NombreProducto { get; set; }
-        public int CantidadVendida { get; set; }
+        public string CantidadProducto { get; set; }
+        public Producto Producto { get; set; }
 
-        public Venta (string nombreProducto, int cantidadVendida)
+
+        public Venta(string NombreCliente ,string nombreProducto) 
         {
-            this.NombreProducto = nombreProducto;
-            this.CantidadVendida = cantidadVendida;
+            this.NombreClinete = NombreCliente;
+
         }
+        
     }
 }
