@@ -1,0 +1,15 @@
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\bin\Debug\net8.0\ClasesParcial3.deps.json
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\bin\Debug\net8.0\ClasesParcial3.runtimeconfig.json
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\bin\Debug\net8.0\ClasesParcial3.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\bin\Debug\net8.0\ClasesParcial3.pdb
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\ClasesParcial3.csproj.AssemblyReference.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\ClasesParcial3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\ClasesParcial3.AssemblyInfoInputs.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\ClasesParcial3.AssemblyInfo.cs
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\ClasesParcial3.csproj.CoreCompileInputs.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\ClasesParcial3.sourcelink.json
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\ClasesParcial3.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\refint\ClasesParcial3.dll
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\ClasesParcial3.pdb
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\ClasesParcial3.genruntimeconfig.cache
+C:\Users\tomas\OneDrive\Documentos\GitHub\Parcial_3\ClasesParcial3\ClasesParcial3\obj\Debug\net8.0\ref\ClasesParcial3.dll

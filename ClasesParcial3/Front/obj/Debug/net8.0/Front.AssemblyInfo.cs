@@ -11,12 +11,12 @@
 using System;
 using System.Reflection;
 
-[assembly: System.Reflection.AssemblyCompanyAttribute("ClasesParcial3")]
+[assembly: System.Reflection.AssemblyCompanyAttribute("Front")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
 [assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+84d9220165078ad1d411398cd7a61032c3f28274")]
-[assembly: System.Reflection.AssemblyProductAttribute("ClasesParcial3")]
-[assembly: System.Reflection.AssemblyTitleAttribute("ClasesParcial3")]
+[assembly: System.Reflection.AssemblyProductAttribute("Front")]
+[assembly: System.Reflection.AssemblyTitleAttribute("Front")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
 
 // Generado por la clase WriteCodeFragment de MSBuild.
